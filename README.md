@@ -21,7 +21,7 @@
   <img align="center" alt="Gabriel-git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Gabriel-mysql" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Gabriel-sass" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="Gabriel-nestjs" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  <img align="center" alt="Gabriel-nestjs" height="35" width="40" src="https://cdn.jsdelivr.net/npm/@nestjs/cli@10.3.2/+esm" />
   <img align="center" alt="Gabriel-csharp" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>  
   
