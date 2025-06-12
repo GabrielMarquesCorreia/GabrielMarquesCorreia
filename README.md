@@ -1,6 +1,6 @@
 ### Hello World !
 
-- 📫 Meu email para contato: gabrielmarquescorreia4@gmail.com.
+- 📫 My contact email: gabrielmarquescorreia4@gmail.com.
 
 <div align="center">
   <a href="https://github.com/GabrielMarquesCorreia">
